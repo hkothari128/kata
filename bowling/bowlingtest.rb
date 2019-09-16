@@ -1,0 +1,3 @@
+require "./bowling"
+
+puts count
